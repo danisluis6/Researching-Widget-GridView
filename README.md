@@ -18,11 +18,11 @@
 ##Analysis
 <p align="center">
   <span>I want to create a row with 3 column</span>
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/version1_1.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/1.png">
 </p>
 
 ##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/version1_1.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/1.png">
 </p>
 
