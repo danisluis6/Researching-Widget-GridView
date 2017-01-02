@@ -4,7 +4,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.enclaveit.gridview.MainActivity">
+    tools:context="com.example.enclaveit.gridview.ui.activities.MainActivity">
     <GridView
         android:id="@+id/grid_view"
         android:numColumns="3"

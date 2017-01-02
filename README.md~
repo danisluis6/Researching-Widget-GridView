@@ -23,6 +23,6 @@
 
 ##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/1.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/2.png">
 </p>
 
