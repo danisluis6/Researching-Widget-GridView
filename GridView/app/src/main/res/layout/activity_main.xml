@@ -7,7 +7,7 @@
     tools:context="com.example.enclaveit.gridview.MainActivity">
     <GridView
         android:id="@+id/grid_view"
-        android:numColumns="auto_fit"
+        android:numColumns="3"
         android:stretchMode="columnWidth"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -15,4 +15,3 @@
 </RelativeLayout>
 
 
-    http://www.androidhive.info/2012/02/android-gridview-layout-tutorial/
