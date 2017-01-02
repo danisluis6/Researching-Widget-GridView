@@ -10,19 +10,19 @@
 
 - [GridView](#gridview)
   - [Analysis](#analysis)
-  - [Version1](#version1)
+  - [Version2](#version1)
 
   => Popup: Definition Menu And Initialize Event on Any Widget to call Popup and show
   => Toolbar: Definition Toolbar and Using include to set position toolbar in main layout.
 
 ##Analysis
+
+##Version2
 <p align="center">
   <span>I want to create a row with 3 column</span>
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/1.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/1.png">
 </p>
-
-##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version1/GridView/2.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/2.png">
 </p>
 
